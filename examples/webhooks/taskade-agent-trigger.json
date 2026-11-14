@@ -1,0 +1,11 @@
+{
+  "event": "agent.execution.triggered",
+  "timestamp": "2026-11-13T23:30:00Z",
+  "agent_id": "agent_order_sync_01",
+  "payload": {
+    "order_id": 450789469,
+    "action": "validate_supplier_inventory",
+    "sku": "AUTONOMOUS-KIT-01",
+    "quantity": 1
+  }
+}

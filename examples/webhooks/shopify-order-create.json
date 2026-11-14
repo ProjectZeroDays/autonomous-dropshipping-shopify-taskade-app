@@ -1,0 +1,26 @@
+{
+  "id": 450789469,
+  "email": "customer@example.com",
+  "created_at": "2026-11-13T23:30:00-06:00",
+  "financial_status": "paid",
+  "fulfillment_status": null,
+  "line_items": [
+    {
+      "id": 866550311,
+      "variant_id": 3907283,
+      "title": "Autonomous Dropshipping Starter Kit",
+      "quantity": 1,
+      "price": "99.00",
+      "sku": "AUTONOMOUS-KIT-01"
+    }
+  ],
+  "shipping_address": {
+    "first_name": "Trey",
+    "last_name": "Smith",
+    "address1": "123 Main Street",
+    "city": "Memphis",
+    "province": "Tennessee",
+    "country": "United States",
+    "zip": "38103"
+  }
+}
