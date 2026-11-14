@@ -1,0 +1,16 @@
+Autonomous-Dropshipping-Shopify-Taskade-App/
+├── package.json
+├── ecosystem.config.js
+├── taskade-master-workspace.json
+├── src/
+│   ├── server.js
+│   ├── stripeHandler.js
+│   ├── shopifyHandler.js
+│   ├── zendropFulfillment.js
+│   ├── financialCalculator.js
+│   ├── telegramNotifier.js
+│   ├── errorHandler.js
+│   └── taskadeToGitHub.js
+├── tests/
+│   └── shopifyWebhook.test.js
+└── data/
